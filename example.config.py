@@ -43,4 +43,9 @@ level_roles = {
     5: 1079649081552551966,  # Role ID for level 5
     10: 1079649117032161330,  # Role ID for level 10
     15: 1079649138104340501,  # Role ID for level 15
-    }
+    } 
+
+# Moderation 
+kick_roles = {             - # role id 
+ban_roles = {
+warn_roles = { 
